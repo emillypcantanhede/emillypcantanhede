@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou a Emilly 👋
 
-<!--
-**emillypcantanhede/emillypcantanhede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+💻 Tenho interesse em Desenvolvimento de Software, Inteligência Artificial e Tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente estou no início da minha jornada na programação, buscando aprender novas ferramentas e desenvolver minhas habilidades.
+
+🚀 Meu objetivo é crescer profissionalmente na área de tecnologia e participar de projetos que contribuam para meu aprendizado.
+
+### Tecnologias e interesses
+- Desenvolvimento de Software
+- Inteligência Artificial
+- Programação
+- Tecnologia e inovação
+
+### Sobre mim
+Sou estudante de ADS e estou sempre em busca de novos conhecimentos e oportunidades para evoluir na área de tecnologia.
+
+---
+
+Obrigada por visitar meu perfil! 😊
